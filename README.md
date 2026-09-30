@@ -1,16 +1,9 @@
-# Sebastián Cáceres — UI/UX Portfolio
+# UI/UX Portfolio — Sebastián Cáceres
 
-Portafolio estático responsive creado con HTML y CSS, preparado para GitHub Pages.
+Portafolio estático para GitHub Pages. Tres casos de estudio con maquetados independientes:
 
-## Estructura
-- `index.html`: página principal y tarjetas de proyectos.
-- `style.css`: estilos compartidos.
-- `projects/`: páginas de casos de estudio.
+- `projects/restaurante.html` — Mesa, app móvil de restaurantes (rojo/marfil).
+- `projects/hoteles.html` — NOCTE Hotels, landing de reservas (azul/negro/editorial).
+- `projects/gaming.html` — NOVA // SYSTEMS, e-commerce gamer (RGB/neón).
 
-## Publicar en GitHub Pages
-1. Sube todos los archivos y carpetas al repositorio.
-2. En GitHub abre **Settings → Pages**.
-3. Selecciona **Deploy from a branch**, rama `main`, carpeta `/ (root)` y guarda.
-
-## Importante
-Los tres casos incluidos son proyectos conceptuales de ejemplo. Antes de presentar el portafolio como trabajo profesional, reemplaza los conceptos por proyectos propios cuando sea posible, agrega capturas originales y enlaza prototipos reales. No afirmes que se realizaron entrevistas, pruebas o mejoras métricas si no se hicieron.
+Las métricas están formuladas como objetivos/hipótesis de validación o ejemplos de interfaz; sustitúyelas por datos medidos antes de presentarlas como resultados reales.
